@@ -2,7 +2,7 @@
 
 ## 제목 & 본문 문자 태그
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +34,7 @@
 * &gt : >
 * &amp : & 
 
-```
+```html
 <body>
 	<h6>공백이 있는 &amp글자</h6>
 	<h6>&lt공백이&nbsp;&nbsp;&nbsp있는&nbsp;&nbsp;&nbsp;글자&gt</h6>
@@ -52,7 +52,7 @@
 * 다른 웹 페이지나 웹 페이지 내부의 특정 위치로 이동할 때 사용
 * href 속성 : 이동할 웹페이지 설정
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
